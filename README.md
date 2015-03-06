@@ -1,5 +1,3 @@
-# Coderetreat
+# Code Retreat
 
-See [starting points][sp].
-
-[sp]: https://github.com/coderetreat-si/coderetreat/tree/master/starting_points
+Code Retreat iteration starting points for different languages.
